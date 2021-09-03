@@ -4,13 +4,12 @@ layout: layout.njk
 ---
 
 # Trash League
+
 a keeper league ran by Dr. Trashdad
 
 ## <ins>Introduction</ins>
 
 Welcome to trash league!
-
-
 
 This site serves as the landing page and home to my keeper league rules, bylaws, and a repository of links for easy reference and navigation. Please read through everything carefully. The link to the league is at the bottom of the page.
 Changelog
@@ -59,7 +58,7 @@ Trades will be shut off at the start of the fantasy playoffs (week 14)
 Normal head-to-head matches will be followed each week with median scoring enacted.
 Median scoring FAQ
 Teams with the 1st and 2nd overall best record will get first-round byes
-Winner of the league will receive $200, 2nd will get $75, and 3rd will get $25 *2021 rules*
+Winner of the league will receive $200, 2nd will get $75, and 3rd will get $25 _2021 rules_
 
 Inactive Team Clause: Commissioner reserves the right to ensure a fun, competitive environment for everyone in the league. Free wins hurt everyone in the long run. Thus, a rule will be established where managers have 1 "freebie" whereby if they fail to set their lineups they will not be penalized. However, subsequent failings to set a lineup will be met with a commissioner setting the lineup on behalf of the team and ensuring a full lineup is set every week. If the team is abandoned, a replacement will be found as soon as possible. If there are extenuating circumstances, team managers are expected to contact the commissioner to make arrangements.
 
