@@ -9,11 +9,11 @@
     {% block head %}
     {% endblock %}
   </head>
-    <body hx-boost="true" class="{{ 'debug-screens' if env.devMode }} font-mono">
+    <body hx-boost="true" class="{{ 'debug-screens' if env.devMode }} ">
       {% include 'header.njk' %}
       {% block body %}
-      <div class="md:container md:mx-auto p-4">
-        <div class="prose font-mono">
+      <div class="md:container md:mx-auto p-8">
+        <div class="prose sm:prose-md font-mono">
           {{ content | safe }}
         </div>
       </div>
