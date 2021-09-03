@@ -17,4 +17,15 @@ module.exports = {
     require('tailwindcss-debug-screens'),
   ],
   purge: ['./src/**/*.{js,md,njk,svg}'],
+
+    extend: {
+      typography: {
+        css: {
+          h1: {
+            fontSize: '3.5rem', //Trying to make h1 big like in https://trash.farm
+            marginBottom: '0',
+          },
+        },
+      },
+    },
 }
